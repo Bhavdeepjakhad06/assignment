@@ -1,0 +1,73 @@
+Data  : Raw Facts : Smallest Entity of any information
+
+Number :  is a notation which is used to denote physical quantities
+
+mks :  meter kilogram second
+cgs : centimeter gram second
+fps :  foot pound second
+
+Data Types : 
+String : str
+Integer :  int
+Decimal : float
+Boolean : True, False
+
+PI : 3.1415196583
+
+Normalization : Arrangement of data
+
+
+Data Structure : 
+List : collection of data :  mutable data structure :  changes are possible : [2, 4, 5, 6,7, 7]
+list methods : 
+append : this will add the element at last index
+pop :  this will remove the element from last index
+
+forward indexing : 
+backward indexing : 
+
+data = [ 2, 4, 5, 7]
+
+Tuple : collection of data :  immutable data structure : changes are not possible : ()
+Set : collection of unique data : mutable data structure : {2, 4, 5, 6}
+Dictionary : collection of key value pair : {key ===>  value}
+
+List Comprehension : 
+Understanding of List
+
+Operators : 
+Arithmetic : =, +=, -=, *=, %=
+Relational : >, <, >=, <=, ==, !=
+Logical : and, or, not
+
+Decision Control Structure : 
+if
+if else
+if elif else
+
+Function : 
+Predefined function  : 
+dir() : 
+
+modules : collection of classes and methods
+class : collection of attributes and methods : template/blueprint
+
+Attributes : Properties : instance : Object
+
+integer : class int
+string : class str
+boolean : class bool
+decimal :  class float
+
+modules : 
+math
+random
+collections
+itertools
+
+Permutation : Arrangement of data
+
+Combination : Selection of data
+
+
+

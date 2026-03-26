@@ -1,0 +1,140 @@
+Edge of AI : 
+
+Python : Developer
+
+Analysis : Analyze the Data
+
+Data : Raw Facts : Smallest Entity of any information
+
+IDE : Integerated Development Envirionment : Anaconda
+
+Antigravity : Gemini Pro : LLM
+
+Visual Studio Code : LLM : GPT-5
+
+Python : Guido Vann Rossum : 1991 : 3.14.3 : 2026 : 35 years 
+
+Function : set of instructions : perform some particular task
+
+Variable : used to store the value in memory location : address
+
+High Level Programming Language : 27 Lakh
+
+Low Level Programming Language :  Binary Code : 0, 1 : 1000 crore
+
+python 2 : 
+print 2
+
+python 3
+print() :  used to display the data
+input() :  used to read the data
+id() :  used to give the address of variable
+type() : used to get the data type of variable :  string
+int() : used to convert into integer
+float() : used to convert into decimal or float values
+dir() : directory or details about module
+
+Iteration : 
+
+Data : 
+Data Types : 
+string : sequence of charachters  : "string_value "
+integer : 2, -5, 6, 7,8 9
+decimal : 2.56, 3.14
+boolean : True, False
+
+a + b = c  ==> Expression
+
+a, b, c ==> operand
++, = => operators
+
+Operators : 
+A
+
+\n : new line
+
+memory : 
+
+Client Server Architecture : 
+
+Webscrapping : 
+
+Data Scrapping :
+
+Implicit Typecasting :  int ====> float     2 ====> 2.0
+Explicit typecasting :  float ==========> int   2.5 ====> 2
+
+normalization : 
+arrangement of data
+
+I like tea and coffee
+
+Truth Table : 
+OR operator : 
+True	True	True
+True	False	True
+False	True	True
+False	False	False
+
+AND operator : 
+True	True	True
+True	False	False
+False	True	False
+False	False  	False
+
+Year : 
+Leap year
+Non Leap Year
+
+1800
+
+Number : 256
+
+Sheet : 
+1048000
+16354 : Columns
+
+Data Structures : 
+List : Array : [2,4,5,6,7,8,9] :  collection of data : mutable data structure : changes are possible
+append : this will add the element at last index
+index : 0, 1, 2,3 4, 5, 5....
+forward indexing : 0, 1,2 3, 4, 5, 6, 7....
+backward indexing : -1, -2, -3, -4, -5....
+Tuple : Collection of Data : (52, 45, 65, 72)
+Set : collection of unique data : {2, 4, 2, 4} ==> {2, 4}
+Dictionary : collection of key value pair : {"name" : "Ram", "age" : 25, "salary" : 25000.65}
+
+
+PIP :  Python install Packages
+
+PEP : Python Enhanacement Proposal
+
+module : 
+math
+os
+numpy
+
+Data Structures : 
+List : collection of data :  mutable data structure :  changes are possible
+List Methods : 
+Append : this will add the element at last index
+Pop : this will remove the element from last index
+Insert : this will add the element at specified index
+Remove : this will remove the element directly from list
+sort() : 
+ascending : 2, 3, 4, 5
+descending : 10, 9, 8, 7
+
+[10, 20, 30, 40, 50]
+  0 , 1,   2,    3 ,   4
+
+Tuple : Collection of data :  immutable data structure : changes are not possible
+
+Set : Collection of unique Data  : mutable data structure :  changes are possible
+
+{2, 1, 2, 1}
+
+Dictionary : {} :  key value pair : collection
+
+
+
