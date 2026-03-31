@@ -1,0 +1,14 @@
+def personaldetails ( name , age , gender , course ):
+    print (f"welcome {name} your age is {age} , your gender is {gender} with course of {course}")
+
+while(True):
+    name = input ("enter your name : ")
+    age = int (input ("enter your age : "))
+    gender = input ("enter your gender : ")
+    course = input ("enter your course : ")
+    personaldetails (name, age , gender ,course )
+
+data = []
+for i in range(16):
+    data.append(i)
+print (data)
