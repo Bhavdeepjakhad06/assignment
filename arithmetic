@@ -1,0 +1,56 @@
+data_list = []
+addition = 0
+n = int(input("how many elements you want to add"))
+for i in range (n):
+    num = int(input("enter the value : "))
+    data_list.append(num)
+
+print (f"data list is : {data_list}")
+
+for i in data_list:
+    addition = addition + i
+print (f"addition of values : {addition}")
+
+length = len(data_list)
+arithmetic_mean = addition / length
+print (f"arithmetic mean is : {arithmetic_mean}")
+
+
+
+data_list = []
+addition = 0
+n = int(input("how many elements you want to add"))
+for i in range (n):
+    num = int(input("enter the value : "))
+    data_list.append(num)
+
+print (f"data list is : {data_list}")
+print (f"maximum element is : {max(data_list)}")
+print (f"minimum element is : {min(data_list)}")
+
+
+data_list = []
+addition = 0
+n = int(input("how many elements you want to add"))
+for i in range (n):
+    num = int(input("enter the value : "))
+    data_list.append(num)   
+print (f"data list is : {data_list}")
+for i in data_list:
+    addition = addition + i
+print (f"addition of values : {addition}")
+
+
+data_list = []
+addition = 0
+n = int(input("how many elements you want to add"))
+for i in range (n):
+    num = int(input("enter the value : "))
+    data_list.append(num)
+print (f"data list is : {data_list}")
+for i in data_list:
+    addition = addition + i
+print (f"addition of values : {addition}")
+arithmetic_mean = addition / n
+print (f"arithmetic mean is : {arithmetic_mean}")
+   
