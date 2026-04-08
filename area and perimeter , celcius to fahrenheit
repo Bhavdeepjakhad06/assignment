@@ -1,0 +1,25 @@
+from math import pi
+base = float (input("enter the base of parallelogram"))
+height = float (input("enter the height of parallelogram"))
+perimeter_of_parallelogram = base * height
+print (f"perimeter of parallelogram is : {perimeter_of_parallelogram}") 
+
+from math import pi
+A = float (input("enter the value A"))
+B = float (input("enter the Value B "))
+H = float (input("enter the Value H "))
+area_of_Trapezium = 0.5 * ( A + B ) * H
+print (f"area of Trapezium is : {area_of_Trapezium}") 
+
+def celtofah():
+    try:
+        celcius = int(input("enter the temperature in celcius : "))
+        fahrenheit = (celcius * 1.8 ) + 32
+        
+    except ValueError :
+        print ("Error : please enter the integer value")
+    else:
+        print(f"temperature in fahrenheit is : {fahrenheit}")
+    finally:
+        print (f"execution complete!")
+celtofah()
